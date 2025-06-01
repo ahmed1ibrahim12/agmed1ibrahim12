@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahim</h1>
 <h3 align="center">Front-end Developer | React & Tailwind Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed1ibrahim12" alt="ahmed1ibrahim12" /></a> </p>
-
 - 🔭 I’m currently working on [Salla Merchants An e-commerce website using React and Tailwind CSS.](https://github.com/ahmed1ibrahim12/Salla-merchants-websites-design-template)
 
 - 🌱 I’m currently learning **Firebase to implement authentication and real-time database features.**
